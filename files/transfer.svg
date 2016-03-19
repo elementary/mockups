@@ -33,12 +33,12 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="430.99297"
-     inkscape:cy="264.54803"
+     inkscape:cx="340"
+     inkscape:cy="243.5"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer2"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="false">
@@ -2832,16 +2832,6 @@
          stdDeviation="3.1183594"
          inkscape:collect="always" />
     </filter>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7146-0-4-6-5"
-       id="linearGradient11431"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.62186789,0,0,0.73221767,414.37364,58.1847)"
-       x1="231.21741"
-       y1="91.83532"
-       x2="231.21741"
-       y2="-4.5781255" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6505-1-3-9"
@@ -10548,7 +10538,7 @@
        sodipodi:nodetypes="ccsssssssscc" />
     <path
        inkscape:connector-curvature="0"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.98000004;fill:url(#linearGradient11431);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99992174;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.98000004;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99992174;marker:none;enable-background:accumulate"
        d="m 699.00006,45.2187 -9.28125,9.7812 -225.25,0 c -1.92715,0 -3.46875,1.5416 -3.46875,3.4688 l 0,65.0625 c 0,1.9271 1.5416,3.4687 3.46875,3.4687 l 329.0625,0 c 1.92715,0 3.46875,-1.5416 3.46875,-3.4687 l 0,-65.0625 c 0,-1.9272 -1.5416,-3.4688 -3.46875,-3.4688 l -85.1875,0 z"
        id="rect5679-0-4"
        sodipodi:nodetypes="ccsssssssscc" />
